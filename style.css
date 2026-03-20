@@ -224,7 +224,7 @@ nav a.sale {
     animation: fadeInUp 0.9s ease both;
 }
 
-/*hero fade-up animatio*/
+/*hero fade-up animation*/
 @keyframes fadeInUp {
     from { opacity: 0; transform: translateY(30px); }
     to   { opacity: 1; transform: translateY(0); }
