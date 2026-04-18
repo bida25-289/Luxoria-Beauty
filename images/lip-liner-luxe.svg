@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="600" viewBox="0 0 450 600">
+  <rect width="450" height="600" fill="#f7d8d3" />
+  <path d="M170 140 C190 140 220 300 165 470" stroke="#b36a6c" stroke-width="24" fill="none" />
+  <path d="M220 130 C240 130 270 280 215 450" stroke="#7b3f42" stroke-width="18" fill="none" />
+  <circle cx="245" cy="180" r="18" fill="#fff" opacity="0.65" />
+  <text x="50%" y="76%" text-anchor="middle" fill="#572f30" font-family="Cormorant Garamond, serif" font-size="32">Lip Liner</text>
+  <text x="50%" y="86%" text-anchor="middle" fill="#572f30" font-family="Cormorant Garamond, serif" font-size="32">Luxe</text>
+</svg>

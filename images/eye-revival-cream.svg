@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="600" viewBox="0 0 450 600">
+  <rect width="450" height="600" fill="#f6e8ef" />
+  <ellipse cx="225" cy="250" rx="90" ry="100" fill="#dcb3c1" opacity="0.9" />
+  <circle cx="225" cy="220" r="45" fill="#fff" opacity="0.7" />
+  <path d="M180 320 C200 360 250 360 270 320" stroke="#fff" stroke-width="16" fill="none" stroke-linecap="round" opacity="0.6" />
+  <text x="50%" y="78%" text-anchor="middle" fill="#5d3a45" font-family="Cormorant Garamond, serif" font-size="34">Eye Revival</text>
+  <text x="50%" y="88%" text-anchor="middle" fill="#5d3a45" font-family="Cormorant Garamond, serif" font-size="34">Cream</text>
+</svg>

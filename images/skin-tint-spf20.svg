@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="600" viewBox="0 0 450 600">
+  <rect width="450" height="600" fill="#efe2d8" />
+  <rect x="150" y="160" width="150" height="320" rx="40" fill="#d8b9a1" />
+  <circle cx="225" cy="240" r="45" fill="#fff" opacity="0.7" />
+  <path d="M200 380 C210 430 240 430 250 380" stroke="#fff" stroke-width="18" fill="none" stroke-linecap="round" />
+  <text x="50%" y="80%" text-anchor="middle" fill="#6b4f44" font-family="Cormorant Garamond, serif" font-size="30">Skin Tint</text>
+  <text x="50%" y="88%" text-anchor="middle" fill="#6b4f44" font-family="Cormorant Garamond, serif" font-size="30">SPF20</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="600" viewBox="0 0 450 600">
+  <rect width="450" height="600" fill="#e7e0e9" />
+  <rect x="115" y="180" width="220" height="220" rx="22" fill="#b89ec6" />
+  <rect x="135" y="200" width="80" height="80" fill="#f0d6e4" />
+  <rect x="235" y="200" width="80" height="80" fill="#cda7d8" />
+  <rect x="135" y="300" width="80" height="80" fill="#8d6b9c" />
+  <rect x="235" y="300" width="80" height="80" fill="#6f4f7d" />
+  <text x="50%" y="80%" text-anchor="middle" fill="#412a4d" font-family="Cormorant Garamond, serif" font-size="30">Smoky Eye</text>
+  <text x="50%" y="88%" text-anchor="middle" fill="#412a4d" font-family="Cormorant Garamond, serif" font-size="30">Quad</text>
+</svg>

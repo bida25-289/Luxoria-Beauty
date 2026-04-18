@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="600" viewBox="0 0 450 600">
+  <rect width="450" height="600" fill="#efe4f0" />
+  <rect x="135" y="160" width="180" height="240" rx="90" fill="#b87fb0" opacity="0.95" />
+  <circle cx="225" cy="210" r="32" fill="#f7e2f4" />
+  <path d="M225 360 L225 420" stroke="#f7e2f4" stroke-width="20" stroke-linecap="round" />
+  <text x="50%" y="78%" text-anchor="middle" fill="#5d3b57" font-family="Cormorant Garamond, serif" font-size="32">Rose &amp;</text>
+  <text x="50%" y="88%" text-anchor="middle" fill="#5d3b57" font-family="Cormorant Garamond, serif" font-size="32">Oud Parfum</text>
+</svg>

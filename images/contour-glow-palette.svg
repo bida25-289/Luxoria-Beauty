@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="600" viewBox="0 0 450 600">
+  <rect width="450" height="600" fill="#f0e2dc" />
+  <rect x="110" y="140" width="230" height="280" rx="28" fill="#d9b8a3" />
+  <line x1="110" y1="220" x2="340" y2="220" stroke="#fff" stroke-width="20" opacity="0.7" />
+  <line x1="110" y1="300" x2="340" y2="300" stroke="#fff" stroke-width="20" opacity="0.5" />
+  <line x1="110" y1="380" x2="340" y2="380" stroke="#fff" stroke-width="20" opacity="0.3" />
+  <text x="50%" y="82%" text-anchor="middle" fill="#5d3c35" font-family="Cormorant Garamond, serif" font-size="32">Contour &amp;</text>
+  <text x="50%" y="90%" text-anchor="middle" fill="#5d3c35" font-family="Cormorant Garamond, serif" font-size="32">Glow Palette</text>
+</svg>

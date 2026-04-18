@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="600" viewBox="0 0 450 600">
+  <rect width="450" height="600" fill="#f7eed5" />
+  <path d="M140 180 L160 460" stroke="#ba9863" stroke-width="26" stroke-linecap="round" />
+  <path d="M190 175 L240 295" stroke="#856a45" stroke-width="18" stroke-linecap="round" />
+  <path d="M280 195 L285 385" stroke="#856a45" stroke-width="18" stroke-linecap="round" />
+  <circle cx="320" cy="500" r="40" fill="#fff" opacity="0.6" />
+  <text x="50%" y="78%" text-anchor="middle" fill="#5e4b39" font-family="Cormorant Garamond, serif" font-size="30">Glow Brush</text>
+  <text x="50%" y="88%" text-anchor="middle" fill="#5e4b39" font-family="Cormorant Garamond, serif" font-size="30">Set</text>
+</svg>
